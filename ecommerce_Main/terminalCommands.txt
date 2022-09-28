@@ -1,0 +1,8 @@
+npm install -g @sanity/cli
+sanity init
+
+npx @sanity/cli init
+
+npx @sanity/cli start
+
+npm run dev
